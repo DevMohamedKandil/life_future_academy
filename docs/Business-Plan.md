@@ -1,25 +1,29 @@
-# Initial Business Plan – Life & Future Academy
+# Business Plan – Integrated Academy Release
 
-**Market:** Cairo, Egypt | **Planning date:** 25 November 2026 | **Stage:** Concept validation and controlled pilot
+**Market:** Cairo, Egypt | **Release:** LIFE360 v2.1 Integrated | **Stage:** demand validation and controlled pilot
 
-> Figures are planning assumptions, not supplier quotations, verified market averages, audited forecasts, or guaranteed returns. Confirm current prices, tax treatment, legal classification, and operating requirements before committing funds.
+> Financial values are planning hypotheses, not quotations, market research, audited forecasts or guaranteed returns.
 
-## Proposition
-An integrated child-development learning experience, not unrelated classes. Differentiation hypothesis: LIFE360 Method, project-based delivery, standardized observations, cumulative portfolio, and evidence-based parent reporting.
+## Strategic proposition
+One integrated learning journey combines eight LIFE360 dimensions with ten extensions: Challenges, Achievement Passport, Leadership, Digital Citizenship, First Aid, Science, Career Discovery, Parent Academy, Future Expo and Digital Platform. The customer buys observable development experiences and evidence, not unrelated classes.
 
-## Initial product
-I CAN: ages 9–12, eight weeks, sixteen sessions, first cohort ten children, mainly in-person with home activities and parent follow-up.
+## Product ladder
+1. Entry: discovery workshop and sample challenge.
+2. Core: I CAN eight-week cohort (ages 9–12).
+3. Retention: themed Future Clubs (science/making, leadership, digital citizenship, career exploration).
+4. Family: Parent Academy workshops and home challenge packs.
+5. Community: Future Expo and school/community partnerships.
+6. Digital: parent/trainer/admin platform, only after workflows are proven manually.
 
-## Validation
-Interview at least 20 parents about desired outcomes, location/schedule, willingness to pay, safety concerns, and reasons to enroll/decline. Run an introductory workshop and test paid reservations; interest alone does not prove demand.
+## Pilot assumptions
+10 children; 8 weeks; 16 sessions; 90 minutes; hourly/day room rental or venue partnership; no permanent lease. Start with paper or access-restricted digital portfolio and manual parent communication. Do not build a custom platform before validating workflows.
 
-## Indicative capital allocation (EGP)
-
-| Category | Amount |
+## Capital allocation – planning envelope
+| Category | EGP |
 |---|---:|
 | Brand identity and basic website | 7,000 |
 | Curriculum and learning materials | 8,000 |
-| Educational and maker materials | 12,000 |
+| Educational/maker/science materials | 12,000 |
 | Devices and technology | 10,000 |
 | Room hire and initial setup | 7,000 |
 | Legal consultation and preliminary setup | 10,000 |
@@ -27,47 +31,30 @@ Interview at least 20 parents about desired outcomes, location/schedule, willing
 | Operating reserve | 23,000 |
 | **Total** | **85,000** |
 
-Planning ceiling is below EGP 100,000; keep an additional EGP 15,000 outside the base plan if available. These are placeholders. Obtain quotations and distinguish one-time from recurring costs. Avoid spending the full allocation before validation.
+Obtain current quotations; distinguish one-time and recurring costs. Do not allocate full platform development from this budget. Prioritize safety, staff capability, curriculum and validation.
 
-## Pricing hypotheses
+## Pricing hypotheses to test
+Introductory workshop EGP 150–200; monthly subscription hypothesis EGP 1,200; eight-week I CAN EGP 2,400; second sibling discount 10%. These are hypotheses only. Test willingness to pay through paid reservations, conversion, refunds and renewal.
 
-| Offer | Test price |
-|---|---:|
-| Introductory workshop | EGP 150–200 |
-| Monthly subscription hypothesis | EGP 1,200 |
-| Eight-week I CAN program | EGP 2,400 |
-| Second sibling | 10% discount |
-
-These are test prices, not verified market prices. Monitor conversion, attendance, refunds, and feedback.
-
-## Illustrative monthly scenarios
-
-| Children | Revenue | Assumed costs | Indicative surplus |
+## Illustrative monthly scenarios (not forecasts)
+| Children | Revenue | Assumed costs | Simplified surplus |
 |---:|---:|---:|---:|
 | 10 | 12,000 | 9,800 | 2,200 |
 | 20 | 24,000 | 17,000 | 7,000 |
 | 40 | 48,000 | 32,000 | 16,000 |
+Assumes EGP 1,200 per active child and omits potentially material items such as founder compensation, taxes, refunds, payment fees, depreciation, extra staff and enrollment volatility. Rebuild using actual contribution margin and full costs before decisions.
 
-Simplified assumptions at EGP 1,200 per active child. May exclude founder compensation, taxes, financing, depreciation, refunds, payment fees, enrollment volatility, extra staff, and overhead. Scenarios, not forecasts. The first scenario's 9,800 / 1,200 implies about 9 children to cover assumed costs before omitted costs; recalculate using actual contribution margin and full cost base.
+## Educational impact model
+Inputs: trained facilitators, safe venue, documented curriculum, materials and family communication. Activities: challenge-based sessions, science/maker practice, leadership roles, digital citizenship, career exploration and parent learning. Outputs: attendance, completed challenges, artifacts, reflections and parent sessions. Outcomes to measure: independence in selected tasks, planning, evidence-based explanations, safer help-seeking, collaboration, communication and broader awareness of interests. Use baseline/endline observations, work samples and parent feedback. A small uncontrolled pilot cannot prove long-term impact or causation.
 
-## Operating model
-Rent a suitable room by hour/day or partner with a venue; avoid a permanent lease before demand is proven. Use a small trained facilitator team, safe cohort sizes, and controlled parent communication. A proposed effort mix is 60% in-person, 25% home/digital activities, 15% parent follow-up; a design hypothesis, not a research-derived optimum.
+## Commercial impact model
+Acquisition through workshops and partner referrals; conversion through sample experience and evidence portfolio; retention through clubs and challenge seasons; referral through parent trust and Future Expo; operating leverage through reusable challenges and trainer playbook; digital leverage through reduced admin only after workflows are validated.
 
-## Risks
-- Weak demand: interviews, paid pilot, staged spending.
-- Unclear value: sample lesson and evidence portfolio.
-- Safeguarding: written policy, checks, training, incident response.
-- Inconsistent delivery: manual, observation, coaching.
-- Cost overruns: quotations, contingency, no long lease.
-- Competition: integrated framework and evidence-based reporting.
-- Privacy: data minimization, permissions, supervised tools.
-- Legal uncertainty: confirm classification and licensing before operation.
+## KPI dashboard
+Learning: rubric movement from baseline, completed artifacts, challenge completion and reflection quality. Experience: attendance, completion, engagement, parent satisfaction and complaint resolution. Commercial: qualified leads, paid conversion, acquisition cost, revenue per cohort, contribution margin, renewal and referral share. Operations: facilitator utilization, preparation hours, delivery adherence, safety incidents/near misses and portfolio completeness. Set numeric targets after pilot measurement; internal targets are not industry benchmarks.
 
-## Legal workstream
-Before accepting children or fees, obtain professional/authority guidance on activity classification, licensing, premises, tax, employment, insurance, and child-protection requirements. Do not represent the academy as a school or accredited institution unless legally authorized.
+## Risks and controls
+Weak demand: interviews and paid pilot before large spend. Safety: named lead, trained staff, risk assessments and incident process. Inconsistent quality: trainer manual and observations. Privacy: minimum data and no child social profiles. Platform overspend: manual MVP first. Legal risk: obtain Egyptian professional/authority guidance on activity classification, licensing, premises, tax, employment, insurance and child protection before enrollment or fees. Reputation: no unsupported accreditation or outcome claims.
 
-## Pilot KPIs (internal targets, not benchmarks)
-10 paid enrollments; at least 85% completion; 85% parent satisfaction; 50% renewal/progression intent; portfolio coverage for 100% (subject to permissions); evidence of progress in at least two practiced skills per child; 90% delivery adherence; zero serious safety incidents attributable to preventable control failure.
-
-## Go/no-go
-Proceed only when legal and venue requirements are checked; safeguarding/emergency procedures are operational; facilitators are screened/prepared; parent permissions and privacy notices are ready; activities/materials are safety-reviewed; and the minimum viable paid enrollment is reached. Scale only after reviewing learning evidence, parent feedback, attendance, unit economics, staffing capacity, and safety.
+## Scale gates
+Prove I CAN and the challenge/portfolio loop first. First-aid practical modules require qualified providers. Parent Academy begins as small workshops. Future Expo follows permissions and event safety. Build platform only when repeated manual workflows and user requirements are known. Expand cohort size/locations only when learning quality, staffing, safety and unit economics support it.
