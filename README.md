@@ -1,99 +1,65 @@
 # Life & Future Academy
 
 **Tagline:** Discover Potential. Build Skills. Shape the Future.  
-**Arabic positioning:** بنعلّم طفلك كيف يعيش، وكيف يفكر، وكيف يصنع مستقبله.
+**Arabic promise:** بنعلّم طفلك كيف يعيش، وكيف يفكر، وكيف يصنع مستقبله.
 
-## 1. Project overview
+## Approved direction: Integrated Academy
+Life & Future Academy is an integrated child-development academy, not a collection of disconnected courses. LIFE360 connects practical life capabilities, thinking, making, technology, literacy, talent exploration, family engagement and public demonstration of learning.
 
-Life & Future Academy is a practical, hybrid learning academy focused on preparing children for life and the future. It combines life skills, self-management, safety awareness, making, critical thinking, technology, talent exploration, literacy, and communication through guided practice and projects.
+**Release:** LIFE360 Method v2.1 – Integrated Edition  
+**Pilot:** I CAN | Ages 9–12 | 8 weeks | 16 sessions | 10 children | 90 minutes/session  
+**Market:** Cairo, Egypt | **Delivery:** in-person core + supervised digital/home follow-up.
 
-The academy is not positioned as a conventional coding center or a collection of disconnected courses. Its core product is an integrated learning experience with observable outcomes and a cumulative child development portfolio.
-
-## 2. Approved founding decisions
-
+## Founding decisions
 | Item | Decision |
 |---|---|
-| Academy name | Life & Future Academy |
-| Learning framework | LIFE360 Method |
-| Pilot age group | 9–12 years |
-| Initial cohort | 10 children |
-| Pilot program | I CAN – أنا أستطيع |
-| Pilot duration | 8 weeks |
-| Sessions | 16 sessions; 2 per week |
-| Session duration | 90 minutes |
-| Delivery | Hybrid: in-person learning plus digital/home follow-up |
-| Initial market | Cairo, Egypt |
-| Initial operating model | Rent suitable rooms by the hour/day or partner with an existing venue; avoid a permanent lease during validation |
-| Planning capital ceiling | Below EGP 100,000 |
-| Initial planning allocation | EGP 85,000, with an additional EGP 15,000 kept outside the base plan if available |
+| Academy | Life & Future Academy |
+| Method | LIFE360 |
+| Positioning | Integrated life-and-future skills academy |
+| Pilot age / cohort | 9–12 / 10 children |
+| Initial capital planning ceiling | Below EGP 100,000 |
+| Operating model | Hourly/day room rental or venue partnership; no permanent lease before validation |
+| Learning cycle | LEARN → PRACTICE → SOLVE → CREATE → REFLECT → SHARE |
 
-## 3. Vision and mission
+## Eight dimensions
+1. Life Skills  2. Self Management  3. Crisis Readiness  4. Maker Skills  
+5. Thinking Skills  6. Future Skills  7. Talent Discovery  8. Literacy & Communication
 
-**Vision:** Help children become capable, curious, responsible, adaptable, and ready to shape their own futures.
+## Ten approved integrated extensions
+Challenges; Achievement Portfolio; Leadership; Digital Citizenship; First Aid & Safety; Science; Career Discovery; Parent Academy; Future Expo; Digital Platform. These are woven through the eight dimensions, not added as ten isolated subjects.
 
-**Mission:** Deliver an integrated, safe, practical learning experience that allows every child to explore interests, build useful skills, express ideas, solve problems, and demonstrate progress through real work.
+## Integrated products
+- **LIFE360 Challenges:** structured weekly real-world challenges.
+- **Achievement Passport:** evidence-based cumulative portfolio.
+- **Leadership Track:** teamwork, initiative, communication and responsibility.
+- **Digital Citizenship:** privacy, safe behavior, information verification and AI awareness.
+- **First Aid & Safety:** age-appropriate prevention/help-seeking; practical instruction only through qualified instructors.
+- **Science Lab:** safe inquiry-led experiments and environmental problem-solving.
+- **Career Discovery:** broad exposure to roles without fixed labels.
+- **Parent Academy:** practical parent workshops and home-learning guidance.
+- **Future Expo:** child-led showcase of projects and reflections.
+- **Digital Platform:** phased parent/trainer/admin portal; no child social network or unnecessary public profiles.
 
-## 4. LIFE360 Method
+## Pilot capstone
+**Future Ready City** integrates budgeting, science, design, safety, digital thinking, literacy, leadership and teamwork. Each child contributes an artifact and reflection to their Achievement Passport.
 
-The framework has eight dimensions:
+## Differentiation
+Documented method, challenge library, trained facilitators, common rubric, evidence portfolio, parent partnership, safeguarding standards and repeatable delivery playbook.
 
-1. Life Skills – practical independence and daily-life skills.
-2. Self Management – time, priorities, habits, and personal responsibility.
-3. Crisis Readiness – safety awareness, preparedness, and asking for help.
-4. Maker Skills – designing, building, testing, and improving safe practical projects.
-5. Thinking Skills – logic, analysis, decision-making, and problem-solving.
-6. Future Skills – digital literacy, coding concepts, and age-appropriate AI awareness.
-7. Talent Discovery – repeated exploration and development of interests and strengths.
-8. Literacy & Communication – reading comprehension, writing, listening, discussion, and presentation.
+## Safeguarding and claims
+Child safety, dignity, privacy and inclusion override commercial targets. LIFE360 is an internal framework, not governmental or international accreditation. No guaranteed academic, psychological or career outcomes are promised. Confirm Egyptian legal classification, licensing, venue, tax, employment and child-protection requirements before enrollment or fee collection.
 
-Literacy and communication are integrated across all dimensions rather than isolated in a single lesson. Talent discovery is continuous and evidence-based; a child is never permanently labeled based on one activity.
-
-## 5. Learning cycle
-
-**LEARN → PRACTICE → SOLVE → CREATE → REFLECT**
-
-Children learn a concept, practice a skill, apply it to a challenge, create an artifact or project, and reflect on what worked and what can improve.
-
-## 6. Pilot program: I CAN
-
-The eight-week pilot targets ages 9–12 and a first cohort of ten children. It uses sixteen 90-minute sessions and culminates in a team project: **Future Ready City**, a miniature future-ready city integrating planning, budgeting, design, safety, technology concepts, collaboration, writing, and presentation.
-
-See:
+## Repository map
 - [LIFE360 Method](docs/LIFE360-Method.md)
 - [I CAN Curriculum](docs/Curriculum-I-CAN.md)
+- [Challenge System](docs/Challenge-System.md)
+- [Achievement Passport](docs/Achievement-Passport.md)
+- [Integrated Products & Platform](docs/Integrated-Products-Platform.md)
 - [Trainer Manual](docs/Trainer-Manual.md)
 - [Child Workbook](docs/Child-Workbook.md)
 - [Parent Guide](docs/Parent-Guide.md)
+- [Safeguarding](docs/Child-Safeguarding.md)
 - [Business Plan](docs/Business-Plan.md)
-- [Child Safeguarding](docs/Child-Safeguarding.md)
 - [90-Day Roadmap](docs/Roadmap-90-Days.md)
 
-## 7. Core differentiation
-
-The defensible value is the operating system around the lessons:
-- A documented proprietary learning framework.
-- A library of challenges and simulations.
-- Standardized observable skill rubrics.
-- Trainer guides and delivery standards.
-- A cumulative portfolio for each child.
-- Parent-facing progress reports supported by evidence.
-- A repeatable model that may expand into clubs, school partnerships, and additional age groups.
-
-Do not claim there are no competitors. The market contains providers offering parts of this value proposition. A complete, current competitor and demand study remains a validation task.
-
-## 8. Operating principles
-
-- Child safety and dignity come before activity completion.
-- Measure each child's progress against their own baseline, not against peers.
-- Use age-appropriate, practical, inclusive activities.
-- Keep parents informed through clear evidence and realistic expectations.
-- Do not promise guaranteed academic, psychological, or career outcomes.
-- Do not claim governmental or international accreditation unless it is formally obtained.
-- Treat LIFE360 as the academy's internal framework until any external accreditation is actually granted.
-
-## 9. Status and next milestone
-
-This repository records the approved concept and pilot design. The next milestone is to validate demand with parents, confirm the legal activity classification and licensing requirements, secure a compliant venue, recruit and train facilitators, and run the first controlled cohort.
-
-**Document status:** Founding baseline – version 1.0  
-**Date:** 25 November 2026
+**Release governance:** Prove I CAN and the challenge/portfolio loop first. Expand products in gated phases; do not build a full platform or launch every extension at once.
