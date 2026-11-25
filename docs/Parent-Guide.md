@@ -1,33 +1,25 @@
-# Parent Guide – Life & Future Academy
+# Parent Guide – Integrated LIFE360 Academy
 
-## Welcome
-I CAN is the first pilot program of Life & Future Academy for ages 9–12. It combines practical activities, teamwork, reading, writing, reflection, and projects. It complements, but does not replace, school, clinical support, or specialist instruction. No fixed outcome is guaranteed.
+## What is LIFE360?
+A practical learning framework connecting life skills, self-management, safety, making, thinking, future skills, talent exploration and literacy/communication. Children learn through challenges, projects, reflection and sharing.
 
-## What children will explore
-- Independence and responsibility.
-- Time management and planning.
-- Needs, wants, and simple budgeting.
-- Safety awareness and help-seeking.
-- Design, making, testing, and improvement.
-- Logical thinking and problem-solving.
-- Beginner coding and responsible technology awareness.
-- Reading, writing, and communication.
-- Interest exploration and team showcase.
+## What your child may experience
+Leadership and teamwork; safe science/making; digital citizenship; financial awareness; first-aid and safety awareness; career exploration; reading, writing and presentation; and an ongoing Achievement Passport. Practical first-aid instruction is provided only by suitably qualified instructors.
 
-## How progress is shared
-The Child Development Portfolio may include baseline goals, work samples, project artifacts, facilitator observations, reading/writing samples, interests the child chose to explore, and practical next-step suggestions. The rubric describes observed performance in context; it is not an IQ score, diagnosis, or permanent label. The focus is each child's growth, not ranking.
+## Achievement Passport
+The passport records learning goals, challenge artifacts, facilitator observations, writing/reading samples, reflections, interests explored and next steps. It is not a school report, IQ test, diagnosis or fixed talent label. The focus is the child's own progress, not ranking.
 
-## Supporting learning at home
-Ask the child to explain one thing they tried. Encourage one age-appropriate responsibility. Read together or discuss a short article. Ask “What else could you try?” Celebrate curiosity, persistence, and thoughtful improvement. Avoid comparisons with siblings or classmates.
+## Parent Academy
+Parent sessions offer practical strategies for encouraging independence, reading at home, responding constructively to mistakes, supporting interests without pressure, and safe technology habits. Participation is supportive and does not determine a child's access or status.
 
-## Safety and communication
-Before participation, the academy should collect required parent/guardian permissions and emergency contacts, confirm authorized pickup arrangements, explain the complaint channel, and securely handle relevant accommodations. Parents should receive venue/timing details, attendance and collection procedures, materials guidance, emergency contacts, separate optional photo/video permissions, and clear privacy information.
+## How to support at home
+Ask “What did you try?”, “What would you change?”, and “What would you like to explore next?” Encourage age-appropriate responsibility and shared reading. Praise effort, curiosity, collaboration and thoughtful improvement rather than comparison.
 
-## Technology and privacy
-Children should not create unnecessary public accounts or share personal information online. Digital tools must be selected and supervised by the academy. Use synthetic examples for AI demonstrations; do not upload identifiable child images, voices, or personal information to third-party AI services without an appropriate lawful basis, safeguards, and required permissions.
+## Safety, consent and privacy
+Before participation, parents receive venue, schedule, collection, emergency, complaint and privacy information. Photo/video consent is separate and optional. Refusing publicity does not prevent participation. Digital tools are supervised; unnecessary accounts and public profiles are avoided.
 
-## Questions and feedback
-Parents should have a named routine contact and a separate clear channel for safeguarding concerns or complaints. Concerns should be acknowledged and handled under written procedures.
+## Future Expo
+A showcase of children's work and explanations. Participation formats should be flexible; children may present live, in a small group, through a display or with facilitator support. Media publication requires separate permission.
 
-## Important note
-LIFE360 is the academy's internal framework. Participation is not governmental or international accreditation. External recognition will be communicated only after formally granted.
+## Important limits
+LIFE360 is an internal academy method, not governmental or international accreditation. It complements school and does not replace clinical, therapeutic or specialist services. No guaranteed academic, psychological or career outcomes are promised.
