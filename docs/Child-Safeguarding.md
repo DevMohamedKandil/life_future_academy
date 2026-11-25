@@ -1,42 +1,36 @@
-# Child Safeguarding, Safety & Privacy Baseline
+# Child Safeguarding, Safety & Privacy Baseline – Integrated Edition
 
-This is a minimum planning baseline. It must be reviewed against applicable Egyptian law, local authority requirements, venue rules, and specialist safeguarding advice before launch. It is not a substitute for legal review.
+This planning baseline must be reviewed against applicable Egyptian law, authority requirements, venue rules and specialist advice before launch. It is not legal advice.
 
-## Commitments
-Treat every child with dignity. Prohibit physical punishment, humiliation, intimidation, bullying, discrimination, and inappropriate discipline. Maintain professional boundaries, a named safeguarding lead, documented escalation routes, and factual records. Never promise absolute secrecy when a safety concern must be escalated.
+## Non-negotiable commitments
+Dignity, safety, inclusion and privacy override commercial targets. Prohibit physical punishment, humiliation, intimidation, bullying, discrimination and inappropriate discipline. Appoint a safeguarding lead and document escalation routes.
 
 ## Parent permissions and handover
-Before participation, obtain appropriate parent/guardian consent and emergency contacts; record authorized collection persons; explain attendance, late collection, illness, incident, and emergency procedures; collect only necessary information; and obtain photo/video permission separately and optionally. Refusal of publicity must not block participation.
+Obtain appropriate guardian consent and emergency contacts; record authorized pickup persons; explain attendance, illness, late collection, incident and emergency procedures. Photo/video permissions are separate, specific and optional. Declining publicity must not block participation.
 
 ## Supervision and boundaries
-Avoid unobserved one-to-one situations between staff and children. Use visible supervised spaces, attendance and departure records, approved parent/guardian communication channels, and transparent procedures for transport, toileting support, and necessary physical assistance.
+Avoid unobserved one-to-one situations. Use visible supervised spaces, attendance/departure logs, approved parent communication, and transparent transport/toileting/physical-assistance procedures.
 
-## Venue and activity safety
-Inspect access, exits, toilets, furniture, lighting, ventilation, and trip hazards. Keep exits clear. Confirm first aid and emergency contacts. Risk-assess each activity, inspect/count materials and tools, and provide age-appropriate alternatives and supervision. For the pilot, exclude live flames, hazardous chemicals, sharp power tools, hot equipment, mains electrical experiments, and dangerous physical challenges.
+## Activity-specific controls
+Every challenge, science experiment, maker task, digital activity, first-aid module and expo must have an age-specific risk assessment, materials check, supervision plan, stop signal and safe alternative. Pilot excludes live fire, hazardous chemicals, sharp power tools, hot equipment, mains electricity and dangerous physical challenges.
 
-## Emergency readiness
-Maintain a venue-specific plan for evacuation route and assembly point, staff roles and headcount, parent notification, emergency services access, incident recording, and assistance for children with additional needs. Use calm age-appropriate orientation; do not frighten children with realistic disaster simulations.
+## First Aid & Safety
+Maintain venue-appropriate first-aid arrangements and emergency access. Child-facing awareness focuses on prevention, alerting a trusted adult and contacting emergency services as instructed. Practical first-aid skills require suitably qualified instructors and approved age-appropriate content. Do not make children responsible for treating others.
 
-## Bullying, behavior, and complaints
-Set group agreements; intervene promptly and fairly; provide a clear parent complaint route; escalate safeguarding concerns to the designated lead; do not investigate serious allegations informally or promise outcomes; protect children from retaliation.
+## Science and maker spaces
+Use inspected age-appropriate materials, controlled quantities and clear cleanup/disposal. No unsupervised experiments, unsafe biological samples, ingestion, or hazardous substances.
 
-## Privacy and records
-Define purpose and lawful basis for each data category. Minimize collection, restrict role-based access, secure records, define retention/deletion periods, and never share portfolios/images with other parents or public channels without appropriate permission. Provide a process for applicable access, correction, and deletion requests.
+## Digital platform and privacy
+Collect minimum necessary data; define lawful basis, purpose, access roles, retention/deletion and response to access/correction/deletion requests. Parent/guardian access is authenticated and limited to their child. No child-to-child direct messaging, public child profiles, open leaderboards, location tracking or unnecessary behavioral profiling. Protect data with appropriate access controls, encryption, audit and backup procedures. Do not upload identifiable child images, voice, video, school or personal data to third-party AI tools without appropriate lawful basis, safeguards and required permissions.
 
-## AI and digital tools
-Use synthetic non-identifiable data in demonstrations. Select adult-managed age-appropriate tools. Avoid unnecessary child accounts and public profiles. Do not upload identifiable child photos, audio, video, school details, or personal data to third-party AI services without appropriate lawful basis, safeguards, and required permissions. Teach that AI outputs can be wrong and must be checked.
+## Future Expo and media
+Conduct event/venue risk assessment, controlled entry and collection, supervision plan, emergency arrangements and accessibility review. Use separate media permission; provide non-recorded participation options; do not publish names, school details or identifying data unnecessarily.
 
-## Staff readiness
-Use role-appropriate screening and reference/qualification checks as lawful. Train on safeguarding, boundaries, recognizing/reporting concerns, positive behavior, evacuation, role-appropriate first aid, privacy/permissions, and activity-specific safety.
+## Bullying, behavior and complaints
+Set group agreements; respond promptly and fairly; provide a parent complaint channel; escalate safeguarding concerns to the lead; protect children from retaliation. Do not investigate serious allegations informally or promise absolute secrecy.
 
 ## Incident response
-1. Make the immediate environment safe and obtain emergency help when needed.
-2. Listen calmly; do not interrogate or lead the child's account.
-3. Record the child's words as accurately as possible, separating fact from opinion.
-4. Notify the safeguarding lead promptly.
-5. Follow applicable reporting and parent/authority notification requirements.
-6. Secure records and preserve confidentiality.
-7. Review controls before the activity/service resumes.
+Make the environment safe; obtain emergency help if needed; listen without interrogating; record exact words and facts separately from opinion; notify safeguarding lead; follow applicable reporting/notification requirements; secure records; review controls before resuming.
 
 ## Launch gate
-Do not start until a safeguarding lead, venue/activity risk assessments, parent consent and collection process, emergency plan, staff screening/training records, incident/complaint procedures, data/image notices, and confirmation of applicable legal classification/permissions are in place.
+No enrollment or operation until legal classification/permissions are confirmed, safeguarding lead appointed, staff screened/trained, venue/activity risk assessments complete, parent consent and collection process ready, emergency plan tested, incident/complaint routes active, and privacy/media notices approved.
